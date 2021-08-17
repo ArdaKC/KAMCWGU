@@ -1,2 +1,2 @@
-# KAMCWGU2.0
+# KAMCWGU
 macchanger adlı paketin kullanımını kolaylaştıran araç.
